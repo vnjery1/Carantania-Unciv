@@ -1,7 +1,7 @@
 [
   {
 		"name": "Samostan",
-		"terrainsCanBeBuiltOn": ["Grassland","Plains","Fresh water"],
+		"terrainsCanBeBuiltOn": ["Grassland","Plains"],
                 "techRequired": "Theology",
 		"turnsToBuild": 10,
 	        "faith": 1,
