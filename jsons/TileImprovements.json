@@ -2,7 +2,7 @@
   {
 		"name": "Samostan",
 		"terrainsCanBeBuiltOn": ["Grassland","Plains","Fresh water"],
-                "techRequired": "Theology",
+                "techRequired": "Required Tech : [Theology]",
 		"turnsToBuild": 10,
 	        "faith": 1,
 		"uniques":["Can not be build adjacent to another Samostan", "The Samostan provides [+1] [Food], [+1] [Faith], [+20%] [Defense bonus], and additional [+1] [Faith] for every [2] adjacent Farms."],
