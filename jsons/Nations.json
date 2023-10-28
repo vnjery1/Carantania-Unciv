@@ -20,8 +20,8 @@
     "afterPeace":"Wonderful, hope you are remember what you say. Peace.",
     "tradeRequest":"Greetings, as the leader of this small, we do not have much resources but would you accept this humble trade?",
 
-    "outerColor":[90,10,120],
-    "innerColor":[90,0,120],
+    "outerColor":[150,10,220],
+    "innerColor":[50,0,120],
     "uniqueName":"He That Comes Forward",
     "uniques":["Expending a non-religious Great Person spreads your religion to the nearest foreign City and to those connected by a Trade Route. Receive a Combat bonus against nearby enemy Cities proportional to the number of followers of your religion those Cities have."],
     "cities":["Karnburg","Beljak","Chur","Ljubljana","Sterzling","Brixen","Bruneck","Leifers","Tamsweg","Sainig Håns"],
