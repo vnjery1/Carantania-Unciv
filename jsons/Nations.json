@@ -8,29 +8,29 @@
 
     "startIntroPart1":"Who is he, that comes forward? He is Domicijan Koroski, the Prince of the Land. You lead Carantania, the fiercest of Samo’s many lands, home to the freeborn and deserving. While your ancestors were free and wild, you owed allegiance to another king, far to the west. But That never held you or your nation back, as you took the opportunity to make Carantania a great bastion of Christianity, with your conversion and the construction of the Millstatt Abbey.",
     "startIntroPart2":"Oh upright judge, who seeks the well-being of his country, your people are dislocated, across space and time, pushed south by the encroaching Germans. They gather at the Prince’s Stone, ready to kiss your cheek and sing the Slovenian Kyrie. Will you give them a home free and without tribute? Will you foster and defend your faith? Can you build a Civilization that will stand the test of time?",
-    
+
+    "declaringWar":"If this is your wish, then so be it. I have rallied the Kosezi in the field of Gospa Sveta, and their full weight is behind me, along with God’s!",
+    "attacked": "How pity! May God be mercy on you, because I believe it it time for your end.",
+    "defeated":"You may have struck me down by force of arms, but you’ve not won over the heart of my people. The Duke’s Stone remains empty until another rises against you.",
     "introduction":"Hello, friend, and welcome to Carantania. I am Domicijan. Know that you speak not to some tyrant, but to a man elected by his brothers and countrymen.",
+    
     "neutralHello":"Greetings, what do you need?",
     "neutralLetsHearIt":"I'm listening.",
     "neutralNo":"No, another time, please.",
     "neutralYes":"Ok, I accept.",
+    
     "hateHello":"Oh, it's you... What motive do you comes to me for?",
-    "hateLetsHearIt":"Say it.",
-    "hateNo":"Absolutely not.",
-    "hateYes":"*grunts* Fine, may it be your way.",
+    "hateLetsHearIt":["Say it."],
+    "hateNo":["Absolutely not."],
+    "hateYes":["*grunts* Fine, may it be your way."],
 
-    "declaringWar":"If this is your wish, then so be it. I have rallied the Kosezi in the field of Gospa Sveta, and their full weight is behind me, along with God’s!",
-    "attacked": "How pity! May God be mercy on you, because I believe it it time for your end.",
     "afterPeace":"Wonderful, hope you are remember what you say. Peace.",
-    "defeated":"You may have struck me down by force of arms, but you’ve not won over the heart of my people. The Duke’s Stone remains empty until another rises against you.",
     "tradeRequest":"Greetings, as the leader of this small, we do not have much resources but would you accept this humble trade?",
 
     "outerColor":[220,160,220],
     "innerColor":[220,0,220],
-
     "uniqueName":"He That Comes Forward",
     "uniques":["Expending a non-religious Great Person spreads your religion to the nearest foreign City and to those connected by a Trade Route. Receive a Combat bonus against nearby enemy Cities proportional to the number of followers of your religion those Cities have."],
-
     "cities":["Karnburg","Beljak","Chur","Ljubljana","Sterzling","Brixen","Bruneck","Leifers","Tamsweg","Sainig Håns"],
   },
 ]
