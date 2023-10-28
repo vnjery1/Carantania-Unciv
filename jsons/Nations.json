@@ -3,20 +3,20 @@
     "name":"Carantania",
     "leaderName":"Domicijian Koroski",
     "startBias":["Plains"],
+    "adjective":["Carantanian"],
     "preferredVictoryType":"Domination",
-    "favoredReligion":"Catholicism",
 
     "startIntroPart1":"Who is he, that comes forward? He is Domicijan Koroski, the Prince of the Land. You lead Carantania, the fiercest of Samo’s many lands, home to the freeborn and deserving. While your ancestors were free and wild, you owed allegiance to another king, far to the west. But That never held you or your nation back, as you took the opportunity to make Carantania a great bastion of Christianity, with your conversion and the construction of the Millstatt Abbey.",
     "startIntroPart2":"Oh upright judge, who seeks the well-being of his country, your people are dislocated, across space and time, pushed south by the encroaching Germans. They gather at the Prince’s Stone, ready to kiss your cheek and sing the Slovenian Kyrie. Will you give them a home free and without tribute? Will you foster and defend your faith? Can you build a Civilization that will stand the test of time?",
     
     "introduction":"Hello, friend, and welcome to Carantania. I am Domicijan. Know that you speak not to some tyrant, but to a man elected by his brothers and countrymen.",
-    "neutralHello":"Greetings, what do you need?"
+    "neutralHello":"Greetings, what do you need?",
     "neutralLetsHearIt":"I'm listening.",
     "neutralNo":"No, another time, please.",
-    "neutralYes":"Ok, I accept."
+    "neutralYes":"Ok, I accept.",
     "hateHello":"Oh, it's you... What motive do you comes to me for?",
-    "hateLetsHearIt":"Say it."
-    "hateNo":"Absolutely not."
+    "hateLetsHearIt":"Say it.",
+    "hateNo":"Absolutely not.",
     "hateYes":"*grunts* Fine, may it be your way.",
 
     "declaringWar":"If this is your wish, then so be it. I have rallied the Kosezi in the field of Gospa Sveta, and their full weight is behind me, along with God’s!",
