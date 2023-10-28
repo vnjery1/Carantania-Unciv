@@ -1,0 +1,18 @@
+[
+  {
+		"name": "Kosezi",
+		"unitType": "Melee",
+    "uniqueTo": "Carantania",
+    "replaces": "Swordsman",
+		"movement": 2,
+		"strength": 14,
+		"cost": 75,
+		"requiredTech": "Iron Working",
+		"upgradesTo": "Longswordsman",
+		"uniques": ["Can build Farms, and upon constructing one the Great People generation rate of the nearest owned City permanently increases by 3% (max 30%). +50% Defense when stationing on a Farm."],
+		"attackSound": "shot",
+        "civilopediaText": [
+			{"text": "The principality of Carantania is particularly notable for the ancient ritual of installing Carantanian dukes (or princes, both an approximate translation of Knez/Knyaz/Fürst), a practice that continued after Carantania was incorporated into the later Duchy of Carinthia. -Wikipedia-"}
+		]
+	},
+]
